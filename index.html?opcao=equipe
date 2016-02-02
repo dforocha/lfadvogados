@@ -1,0 +1,71 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+       <meta http-equiv="Content-Language" content="pt-BR" />
+       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />        
+       <title>Louren&ccedil;o e Frias</title>
+       <link href='estilos.css' rel='stylesheet' type='text/css' />
+       <meta name="robots" content="index, follow"/>
+       <meta name='description' content='O escritório conta com uma equipe profissional e especializada em assessoria empresarial, direito do trabalho, direito cível e previdenciário com sede em Sumaré-SP atende à toda região metropolitana de campinas.'/> 
+       <meta name='keywords' content='advogado em sumaré,advogados em sumaré, campinas, região de campinas, escritório de advocacia, assessoria empresarial, direito trabalhista, direito cívil, direito previdenciário, tributário'/> 
+    </head>
+    <body>
+       <div id="container">
+          <div id="menu_logo">
+            <table width="100%" height="100%">
+               <tr>
+                 <td align="center" valign="center" width="40%">
+                    &nbsp;&nbsp;&nbsp;<img src="img/logo_pq.jpg" border=0/>
+                 </td>
+                 <td width="60%" valign="bottom" align="right">
+                    <table>
+                       <tr>
+                           <td>
+                    &nbsp;&nbsp;&nbsp;<img src="img/escritorio_mini.png" border=0/>
+                           </td>
+                           <td>
+                      <address>
+             Rua Francisco Biancalana, 238<br/>
+                 Vila Santana - Sumar&eacute;/SP<br/>
+                     CEP: 13170-290<br/>
+                   +55 (19) 3873-3671
+                    </address>
+                           </td>
+                           <tr>
+                           <td colspan=2 align="right">
+                    <a href="?opcao=sobre"><span class="menulink">Sobre</span></a>
+                    <a href="?opcao=equipe"><span class="menulink">Equipe</span></a>
+                    <a href="?opcao=area"><span class="menulink">Atua&ccedil;&atilde;o</span></a>
+                    <a href="?opcao=contato"><span class="menulink">Contato</span></a>
+                    <br/>
+                          </td>
+                          </tr>
+                     </table>
+                 </td>
+               </tr>
+              </table>
+          </div> 
+          <div id="corpo">
+            <div id="corpo_img">
+               <img class="corpo_img" src="img/direito.jpg"/>
+            </div> 
+            <div id="conteudo">
+                      <h1>Equipe:</h1>
+      <hr class="style-eight">
+      <p class="equipe"><img src="img/border_top.png" width="50%" height="50%" border=0/></p>
+             <p class="equipe">Dr. JosuÃ© LourenÃ§o â€“ OAB/SP 95.109</p>
+             <p class="equipe">Dra. Gislaine Cristina de Frias Caron â€“ OAB/SP 244.156</p>
+             <p class="equipe">Dra. Daniela FÃ¡tima de Frias â€“ OAB/SP 264.888 </p>
+             <p class="equipe">Dra. KÃ¡tia Gisele de Frias â€“ OAB/SP 326.249</p>
+             <p class="equipe">Jaqueline Allana Garcia â€“ estagiÃ¡ria de Direito</p>
+      <p class="equipe"><img src="img/border_bottom.png" width="50%" height="50%" border=0/></p>
+               
+            </div> 
+          </div>
+      </div>
+    </body>
+</html>  

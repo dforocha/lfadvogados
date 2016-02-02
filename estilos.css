@@ -1,0 +1,114 @@
+body, p  {
+   font-size: 15px;  
+}
+
+#container {
+   position: absolute;
+   background-image: url("img/background.jpg");
+   background-repeat: repeat-y;
+   top:0px;
+   width: 70%;
+   /*height: 100%;*/
+   height:1000px;
+   margin-left: 15%;
+   margin-right: 15%;
+   -moz-box-shadow: 15px 15px 15px 15px #ccc;
+   -webkit-box-shadow: 15px 15px 15px 15px #ccc;
+   -ms-box-shadow: 15px 15px 15px 15px #ccc;
+   -o-box-shadow: 15px 15px 15px 15px #ccc;
+   box-shadow: 15px 15px 15px 15px #ccc;
+}
+
+#menu_logo {
+   position: relative;
+   background: url("img/menu_bkg2.jpg") repeat-x;
+   background-size: 100% 100%;
+   height: 200px;
+   margin-top: 35px;
+}
+
+#corpo {
+   position: relative;
+   margin-top: 25px;
+   margin-left: 10%;
+   margin-right: 10%;
+   background: #ffffff;
+   height: 70%;
+ }
+
+.corpo_img {
+   margin-top: 1%;
+   margin-left: 1%;
+   margin-right: 1%;
+   width: 98%; 
+
+}
+
+#conteudo {
+   position: relative;
+   margin-top: 1%;
+   margin-left: 1%;
+   margin-right: 1%;
+   margin-bottom: 1%;
+   overflow-y: auto;
+   border: 0px solid;
+   height: 490px;
+}
+
+.menulink {
+   width:90px;
+   text-align: center;
+   display: inline-block;
+   background: #191970;
+   -moz-border-radius: 5px;   /* para funcionar no Firefox*/
+   -webkit-border-radius: 5px;   /* para funcionar no Chrome ou no Safari */
+   border-radius: 5px;  /* É bom colocar caso haja alguma incompatibilidade no futuro */ 
+   color: #ffffff;
+   -moz-box-shadow: 5px 5px 5px #ccc;
+   -webkit-box-shadow: 5px 5px 5px #ccc;
+   -ms-box-shadow: 5px 5px 5px #ccc;
+   -o-box-shadow: 5px 5px 5px #ccc;
+   box-shadow: 5px 5px 5px #ccc;
+
+}
+
+.td_title {
+   width:98%;
+   text-align: center;
+   display: inline-block;
+   background: #191970;
+   border-radius: 5px;  /* É bom colocar caso haja alguma incompatibilidade no futuro */ 
+   color: #ffffff;
+   -moz-box-shadow: 5px 5px 5px #ccc;
+   -webkit-box-shadow: 5px 5px 5px #ccc;
+   -ms-box-shadow: 5px 5px 5px #ccc;
+   -o-box-shadow: 5px 5px 5px #ccc;
+   box-shadow: 5px 5px 5px #ccc;
+}
+
+.equipe {
+   width: 100%;
+   text-align: center;
+   font-weight:bold;
+   font-size: 14px;  
+
+}
+
+a:hover span {
+   background: #efece5;
+   color: #191970;
+}
+
+
+h1 {
+   color: #191970;
+   font-style: WT Serif;
+   font-weight: bold;
+   font-size: 20px;
+}
+
+hr { 
+   width: 30%;
+   margin-left: 0%;
+   color: #191970;
+}
